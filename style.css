@@ -1,0 +1,15 @@
+
+p{
+    color: darkslateblue;
+}
+#statForm{
+
+    display: flex;
+    font: 13px Arial;
+    background-color: darkslateblue;
+    padding: 10px;
+    border: 10px black;
+    width: 20%;
+    height: 20%;
+ }
+ 
